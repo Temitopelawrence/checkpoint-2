@@ -1,0 +1,30 @@
+body{
+    margin: 30px ;
+    padding: 0;
+    background-color: rgba(1, 1, 15, 0.893);
+
+}
+.hydrogen{
+    display: flex;
+    margin: 12px 0 0 250px;
+    font-size: small;
+    color: aliceblue;
+    
+}
+.helium{
+    display: flex;
+    list-style: none;
+    margin: 12px 0 0 400px;
+    color: aliceblue;
+}
+.fa-brands{
+    color: aliceblue;
+    
+}
+   
+.lithium{
+    color: aliceblue;
+}
+.Beryllium{
+    display: flex;
+}
