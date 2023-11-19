@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    display: flex;
+    /* margin: 12px 0 0 180px; */
+    
+}
+
+.logo-1{
+    height: 30px;
+    width: 30px;
+    margin: 0 0 0 220px !important;
+    
+}
+.page-title{
+    color: #00c3a5;
+    margin: 0 300px 0 0 ;
+}
+
+.title-2{
+    color: #ababab !important; 
+}
+
+.ul-items{
+    display: flex;
+    margin-right: 300px;
+    color: #ababab;
+}
+
+nav ul li{
+    list-style: none;
+    padding: 0 5px;
+    margin: 20px 0 0 0;
+}
+
+.special-li{
+    color: #00c3a5;
+}
+
+.mid-logo{
+    height: 35px;
+    width: 35px;
+    margin: 70px 0 0 650px;
+    /* align-content: center !important; */
+    
+}
+
+.mid-text{
+    text-align: center;
+    font-weight: 200 !important;
+    font-size: 30px;
+    color: #00c3a5;
+    margin: 25px 0 0 0;
+}
+
+.bug{
+    font-size: 10px;
+    /* font-weight: 100; */
+    color: #ababab;
+}
+
+.all-cards{
+    /* margin: 0 0px 0 100px; */
+    justify-content: space-around;
+}
+.patients{
+    background-color: #00ccb1;
+    height: 380px;
+    width: 280px;
+    border-radius: 8px;
+    color: white;
+}
+
+.doctors{
+    background-color: #3d83df;
+    height: 380px;
+    width: 280px;
+    border-radius: 8px;
+    color: white;
+}
+
+.clinics{
+    background-color: #1b2734;
+    height: 380px;
+    width: 280px;
+    border-radius: 8px;
+    color: white;
+}
+
+.delta{
+    border: none;
+    border-bottom: 2px solid white;
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.theta{
+    border-bottom: 2px solid white;
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+}

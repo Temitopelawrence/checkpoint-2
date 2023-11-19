@@ -2,6 +2,7 @@ body{
     margin: 30px ;
     padding: 0;
     background-color: rgba(1, 1, 15, 0.893);
+    
 
 }
 .hydrogen{
@@ -10,6 +11,9 @@ body{
     font-size: small;
     color: aliceblue;
     
+    
+
+    
 }
 .helium{
     display: flex;
@@ -17,6 +21,13 @@ body{
     margin: 12px 0 0 400px;
     color: aliceblue;
 }
+
+.helium li{
+    padding: 0 10px
+}
+
+
+
 .fa-brands{
     color: aliceblue;
     

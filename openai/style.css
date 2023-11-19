@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(26, 28, 44);
+    color: aliceblue;
+}
+.hydrogen{
+    border-style: solid;
+    margin: 12px 12px 0 12px;
+    display: flex;  
+    justify-content: center;
+}
+.helium{
+    display: flex;
+    list-style: none;
+    padding: 0 10px;
+    
+}
+.helium li{
+    padding: 0 10px;
+   
+    
+}
+h6{
+    display: flex;  
+}
+/* .lithium{
+    justify-content: left;
+} */
+.berylium{
+    display: flex;
+    justify-content: end;
+    padding-left: 500px;
+}
