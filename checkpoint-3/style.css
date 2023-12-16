@@ -63,7 +63,7 @@ nav ul li{
 }
 
 .all-cards{
-    /* margin: 0 0px 0 100px; */
+    /* margin: 0 20px 0 20px; */
     justify-content: space-around;
 }
 .patients{
@@ -98,7 +98,6 @@ nav ul li{
 }
 
 .theta{
-    border-bottom: 2px solid white;
-    color: white;
-    background-color: rgba(255, 255, 255, 0);
+    color: #69d3b5;
+    margin-right: 20px;
 }
